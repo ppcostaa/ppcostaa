@@ -6,11 +6,8 @@
 - 🏳‍🌈 I go by She/Her pronouns.
 - ✌ I am a Brazilian girl
 
-<IMG SRC="gif1.gif" class="animated-gif">;
-<IMG SRC="gif2.gif" class="animated-gif">;
-<IMG SRC="gif3.gif" class="animated-gif">;
+<IMG SRC="gif1.gif" class="animated-gif" width="250" height="250"/> <IMG SRC="gif2.gif" class="animated-gif" width="250" height="250"/> <IMG SRC="gif3.gif" class="animated-gif" width="250" height="250"/>
 
-<link rel="stylesheet" href="css.css">
 
 # Hello! I am Giovanna Portal 😊
 

@@ -9,13 +9,6 @@
 <IMG SRC="gif1.gif" class="animated-gif" width="250" height="250"/> <IMG SRC="gif2.gif" class="animated-gif" width="250" height="250"/> <IMG SRC="gif3.gif" class="animated-gif" width="250" height="250"/>
 
 
-# Hello! I am Giovanna Portal 😊
-
-- 👩‍💻 I am a "Análise e Desenvolvimento de Sistemas" student (analysis and systems development)
-- 💻 I also intend to study "Ciência da Computação" (Computer Science)
-- 🏳‍🌈 I go by She/Her pronouns.
-- ✌ I am a Brazilian girl
-
 ### Where to find me 📱
 
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/giovanna_portaldacosta/)

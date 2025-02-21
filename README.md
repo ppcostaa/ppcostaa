@@ -1,7 +1,7 @@
 
 # Hello! I am Giovanna Portal 😊
 
-- 👩‍💻 I am a "Análise e Desenvolvimento de Sistemas" student (analysis and systems development)
+- 👩‍💻 I am a "Análise e Desenvolvimento de Sistemas" and "Estatística" student (analysis and systems development and statistic)
 - 💻 I also intend to study "Ciência da Computação" (Computer Science)
 - 🏳‍🌈 I go by She/Her pronouns.
 - ✌ I am a Brazilian girl
